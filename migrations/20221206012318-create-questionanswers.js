@@ -15,6 +15,21 @@ module.exports = {
       answer: {
         type: Sequelize.ARRAY(Sequelize.STRING)
       },
+      type: {
+        type: Sequelize.INTEGER
+      },
+      wrongAns: {
+        type: Sequelize.ARRAY(Sequelize.STRING)
+      },
+      spanishQuestion: {
+        type: Sequelize.STRING
+      },
+      spanishAnswer: {
+        type: Sequelize.ARRAY(Sequelize.STRING)
+      },
+      spanishWrongAns: {
+        type: Sequelize.ARRAY(Sequelize.STRING)
+      },
       category: {
         type: Sequelize.STRING
       },

@@ -7,7 +7,7 @@ module.exports = {
       {
         question: 'What is the supreme law of the land?',
         answer: ['The Constitution'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Declaration of Independence', 'Bill of Rights', 'Star Spangled Banner'],
         spanishQuestion: '¿Cuál es la ley suprema de la tierra?',
         spanishAnswer: ['La Constitución'],
@@ -20,7 +20,7 @@ module.exports = {
       {
         question: 'What does the Constitution do?',
         answer: ['Sets up the government', 'Defines the government', 'Protects basic rights of Americans'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Declared Independence', 'Elected the first president of the US', 'Declared Washington D.C. as the capital'],
         spanishQuestion: '¿Que hace la Constitucion?',
         spanishAnswer: ['Establece el gobierno', 'Define el gobierno', 'Protege los derechos básicos de los estadounidenses'],
@@ -33,7 +33,7 @@ module.exports = {
       {
         question: 'The idea of self-government is in the first three words of the Constitution. What are these words?',
         answer: ['We the People'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['I pledge allegiance', 'Star Spangled Banner', 'United States of America'],
         spanishQuestion: 'La idea de autogobierno está en las tres primeras palabras de la Constitución. ¿Que son estas palabras?',
         spanishAnswer: ['Nosotros la gente'],
@@ -46,7 +46,7 @@ module.exports = {
       {
         question: 'What is an amendment?',
         answer: ['A change (to the Constitution)', 'An addition (to the Constitution)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Adding a state to the US', 'Adding a Senator to the Senate', 'Agreement between the political parties'],
         spanishQuestion: '¿Qué es una enmienda?',
         spanishAnswer: ['Un cambio (a la Constitución)', 'Una adición (a la Constitución)'],
@@ -59,7 +59,7 @@ module.exports = {
       {
         question: 'What do we call the first ten amendments to the Constitution?',
         answer: ['The Bill of Rights'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Declaration of Indepedence', 'Federalist Papers', 'Checks and Balances'],
         spanishQuestion: '¿Cómo llamamos a las diez primeras reformas a la Constitución?',
         spanishAnswer: ['La Carta de Derechos'],
@@ -72,7 +72,7 @@ module.exports = {
       {
         question: 'What is one right or freedom from the First Amendment?',
         answer: ['Speech', 'Religion', 'Assembly', 'Press', 'Petition the government'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Play sports', 'Pursuit of Happiness', 'Education'],
         spanishQuestion: '¿Cuál es un derecho o libertad de la Primera Enmienda?',
         spanishAnswer: ['Discurso', 'Religión', 'Asamblea', 'Prensa', 'Petición al gobierno'],
@@ -85,7 +85,7 @@ module.exports = {
       {
         question: 'How many amendments does the Constitution have?',
         answer: ['Twenty-Seven (27)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Eighteen (18)', 'Thirty (30)', 'Twenty-Five (25)'],
         spanishQuestion: '¿Cuántas enmiendas tiene la Constitución?',
         spanishAnswer: ['Veintisiete (27)'],
@@ -98,7 +98,7 @@ module.exports = {
       {
         question: 'What did the Declaration of Independence do?',
         answer: ['Announced our independence (from Great Britain)', 'Declared our independence (from Great Britain)', 'Said that the United States is free (from Great Britain)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Freed the slaves', 'Defined the government', 'Chose the first president'],
         spanishQuestion: '¿Que hizó la declaración de Independencia?',
         spanishAnswer: ['Anunció nuestra independencia (de Gran Bretaña)', 'Declaró nuestra independencia (de Gran Bretaña)', 'Dijo que Estados Unidos es libre (de Gran Bretaña)'],
@@ -111,7 +111,7 @@ module.exports = {
       {
         question: 'What are two rights in the Declaration of Independence?',
         answer: ['Life', 'Liberty', 'Pursuit of happiness'],
-        type: ['2'],
+        type: 2,
         wrongAns: ['Citizenship', 'Civil Rights', 'Freedom'],
         spanishQuestion: '¿Cuáles son dos derechos en la Declaración de Independencia?',
         spanishAnswer: ['Vida', 'Libertad', 'Búsqueda de la felicidad'],
@@ -124,7 +124,7 @@ module.exports = {
       {
         question: 'What is freedom of religion?',
         answer: ['You can practice any religion, or not practice a religion.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['You are not allowed to practice a religion', 'You can only practice certain religions', 'You can pledge allegiance to any flag'],
         spanishQuestion: '¿Que es libertad de religión?',
         spanishAnswer: ['Puedes practicar cualquier religión o no practicar una religión.'],
@@ -137,7 +137,7 @@ module.exports = {
       {
         question: 'What is the economic system in the United States?',
         answer: ['Capitalist economy', 'Market economy'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Communism', 'Checks and Balances', 'Democracy'],
         spanishQuestion: '¿Cómo es el sistema económico en los Estados Unidos?',
         spanishAnswer: ['Economía capitalista', 'Economía de mercado'],
@@ -150,7 +150,7 @@ module.exports = {
       {
         question: 'What is the “rule of law”?',
         answer: ['Everyone must follow the law.', 'Leaders must obey the law.', 'Government must obey the law.', 'No one is above the law.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Freedom of Religion', 'Must register for Selective Service at age 18', 'Freedom of Speech'],
         spanishQuestion: 'Cuál es la regla de ley"?',
         spanishAnswer: ['Todos deben obedecer la ley', 'Los líderes deben obedecer la ley', 'El gobierno debe obedecer la ley', 'Nadie está por encima de la ley'],
@@ -163,7 +163,7 @@ module.exports = {
       {
         question: 'Name one branch or part of the government.',
         answer: ['Congress', 'Legislative', 'President', 'Executive', 'The Courts', 'Judicial'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Newspapers', 'Democrats', 'Republicans'],
         spanishQuestion: 'Nombra una rama o parte del gobierno.',
         spanishAnswer: ['Congreso', 'Legislativo', 'Presidente', 'Ejecutivo', 'Los Tribunales', 'Judicial'],
@@ -188,7 +188,7 @@ module.exports = {
       {
         question: 'Who is in charge of the executive branch?',
         answer: ['The President'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The Supreme Court', 'Vice President', 'Secretary of State'],
         spanishQuestion: '¿Quién está a cargo del poder ejecutivo?',
         spanishAnswer: ['El presidente'],
@@ -201,7 +201,7 @@ module.exports = {
       {
         question: 'Who makes federal laws?',
         answer: ['Congress', 'Senate and House of Representatives', '(U.S. or national) Legislature'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['President', 'Secretary of Laws', 'The Supreme Court'],
         spanishQuestion: '¿Quién hace las leyes federales?',
         spanishAnswer: ['Congreso', 'Senado y Cámara de Representantes', 'Legislatura (estadounidense o nacional)'],
@@ -214,7 +214,7 @@ module.exports = {
       {
         question: 'What are the two parts of the U.S. Congress?',
         answer: ['The Senate and House of Representatives'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The Senate and Supreme Court', 'House of Representatives and Supreme Court', 'President and Supreme Court'],
         spanishQuestion: '¿Cuáles son las dos partes del Congreso de los Estados Unidos?',
         spanishAnswer: ['El Senado y la Cámara de representantes'],
@@ -227,7 +227,7 @@ module.exports = {
       {
         question: 'How many U.S. Senators are there?',
         answer: ['One hundred (100)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Fifty (50)', 'Two hundred (200)', 'Twenty five (25)'],
         spanishQuestion: '¿Cuántos senadores estadounidenses hay?',
         spanishAnswer: ['Cien (100)'],
@@ -240,7 +240,7 @@ module.exports = {
       {
         question: 'We elect a U.S. Senator for how many years?',
         answer: ['Six (6)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Two (2)', 'Four (4)', 'Ten (10)'],
         spanishQuestion: '¿Elegimos un Senador de los Estados Unidos por cuántos años?',
         spanishAnswer: ['Seis (6)'],
@@ -253,7 +253,7 @@ module.exports = {
       {
         question: "Who is one of your state's U.S. Senators now?",
         answer: ['Answer will vary.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Joe Biden', 'John Roberts', 'Nancy Pelosi'],
         spanishQuestion: '¿Quién es uno de los senadores estadounidenses de su estado ahora?',
         spanishAnswer: ['La respuesta variará.'],
@@ -266,7 +266,7 @@ module.exports = {
       {
         question: 'The House of Representatives has how many voting members?',
         answer: ['Four hundred thirty-five (435)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Four hundred (400)', 'Fifty (50)', 'Four hundred fifty (450)'],
         spanishQuestion: '¿Cuántos miembros votantes tiene la Cámara de Representantes?',
         spanishAnswer: ['Cuatrocientos treinta y cinco (435)'],
@@ -279,7 +279,7 @@ module.exports = {
       {
         question: 'We elect a U.S. Representative for how many years?',
         answer: ['Two (2)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Four (4)', 'Eight (8)', 'Ten (10)'],
         spanishQuestion: '¿Elegimos un representante de los EE. UU. por cuántos años?',
         spanishAnswer: ['Dos (2)'],
@@ -292,7 +292,7 @@ module.exports = {
       {
         question: 'Name your U.S. Representative.',
         answer: ['Answer will vary.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Joe Biden', 'John Roberts', 'Nancy Pelosi'],
         spanishQuestion: 'Nombre de su representante de EE. UU.',
         spanishAnswer: ['La respuesta variará.'],
@@ -305,7 +305,7 @@ module.exports = {
       {
         question: 'Who does a U.S. Senator represent?',
         answer: ['All people of the state'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The President', 'All the people of a country', 'Some people of a city'],
         spanishQuestion: '¿A quién representa un senador de Estados Unidos?',
         spanishAnswer: ['Todas las personas del estado'],
@@ -318,7 +318,7 @@ module.exports = {
       {
         question: 'Why do some states have more Representatives than other states?',
         answer: ["(Because of) The state's population", "(Because) They have more people", "(Because) Some states have more people"],
-        type: ['1'],
+        type: 1,
         wrongAns: ['(Because) The state has been around longer', '(Because) Some states have more money', '(Because) Some states have more land'],
         spanishQuestion: '¿Por qué algunos estados tienen más representantes que otros estados?',
         spanishAnswer: ['(Por) la población del estado”, “(Porque) tienen más gente”, “(Porque) algunos estados tienen más gente'],
@@ -331,7 +331,7 @@ module.exports = {
       {
         question: 'We elect a President for how many years?',
         answer: ['Four (4)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Eight (8)', 'Two (2)', 'Ten (10)'],
         spanishQuestion: '¿Elegimos un presidente por cuántos años?',
         spanishAnswer: ['Cuatro (4)'],
@@ -344,7 +344,7 @@ module.exports = {
       {
         question: 'In what month do we vote for President?',
         answer: ['November'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['August', 'January', 'April'],
         spanishQuestion: '¿En qué mes votamos por el presidente?',
         spanishAnswer: ['Noviembre'],
@@ -357,7 +357,7 @@ module.exports = {
       {
         question: 'What is the name of the President of the United States now?',
         answer: ['Joe Biden'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Donald Trump', 'George W. Bush', 'Nancy Pelosi'],
         spanishQuestion: '¿Cuál es el nombre del presidente de los Estados Unidos ahora?',
         spanishAnswer: ['Joe Biden'],
@@ -370,7 +370,7 @@ module.exports = {
       {
         question: 'What is the name of the Vice President of the United States now?',
         answer: ['Kamala Harris'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Michael Pence', 'Nancy Pelosi', 'Kevin Mccarthy'],
         spanishQuestion: '¿Cómo se llama ahora el vicepresidente de los Estados Unidos?',
         spanishAnswer: ['Kamala Harris'],
@@ -383,7 +383,7 @@ module.exports = {
       {
         question: 'If the President can no longer serve, who becomes President?',
         answer: ['The Vice President'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['First Lady of the US', 'Speaker of the House', 'one of the Senators from Florida'],
         spanishQuestion: 'Si el presidente ya no puede servir, ¿quién se convierte en presidente?',
         spanishAnswer: ['El vicepresidente'],
@@ -396,7 +396,7 @@ module.exports = {
       {
         question: 'If both the President and the Vice President can no longer serve, who becomes President?',
         answer: ['The Speaker of The House'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Attorney General', 'Secretary of Homeland Security', 'First Lady of the US'],
         spanishQuestion: 'Si tanto el presidente como el vicepresidente ya no pueden servir, ¿quién se convierte en presidente?',
         spanishAnswer: ['El presidente de la Cámara'],
@@ -409,7 +409,7 @@ module.exports = {
       {
         question: 'Who is the Commander in Chief of the military?',
         answer: ['The President'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The Vice-President', 'Secretary of Homeland Security', 'Attorney General'],
         spanishQuestion: '¿Quién es el Comandante en Jefe de las Fuerzas Armadas?',
         spanishAnswer: ['El presidente'],
@@ -422,7 +422,7 @@ module.exports = {
       {
         question: 'Who signs bills to become laws?',
         answer: ['The President'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The Vice-President', 'Speaker of the House', 'First Lady of the US'],
         spanishQuestion: '¿Quien firma los proyectos para convertirlos en ley?',
         spanishAnswer: ['El presidente'],
@@ -435,7 +435,7 @@ module.exports = {
       {
         question: 'Who vetoes bills?',
         answer: ['The President'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The Vice-President', 'Senators', 'Secratary of Education'],
         spanishQuestion: '¿Quién veta los proyectos de ley?',
         spanishAnswer: ['El presidente'],
@@ -448,7 +448,7 @@ module.exports = {
       {
         question: "What does the President's Cabinet do?",
         answer: ['Advises the President'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Vetoes Bills', 'Elects the president', 'Writes amendments'],
         spanishQuestion: '¿Qué hace el gabinete del presidente?',
         spanishAnswer: ['Asesora al presidente'],
@@ -461,7 +461,7 @@ module.exports = {
       {
         question: 'What are two Cabinet-level positions?',
         answer: ['Secretary of Agriculture', 'Secretary of Commerce', 'Secretary of Defense', 'Secretary of Education', 'Secretary of Energy', 'Secretary of Health and Human Services', 'Secretary of Homeland Security', 'Secretary of Housing and Urban Development', 'Secretary of the Interior', 'Secretary of Labor', 'Secretary of State', 'Secretary of Transportation', 'Secretary of the Treasury', 'Secretary of Veteran Affairs', 'Attorney General', 'Vice President'],
-        type: ['2'],
+        type: 2,
         wrongAns: ['Secretary of Technology', 'Secretary of Nature', 'Secretary of Happiness'],
         spanishQuestion: '¿Cuáles son dos puestos a nivel de gabinete?',
         spanishAnswer: ['Secretario de Agricultura', 'Secretario de Comercio', 'Secretario de Defensa', 'Secretario de Educación', 'Secretario de Energía', 'Secretario de Salud y Servicios Humanos', 'Secretario de Seguridad Nacional', 'Secretario de Vivienda y Desarrollo Urbano', 'Secretario del Interior', 'Secretario del Trabajo', 'Secretario de Estado', 'Secretario de Transporte', 'Secretario del Tesoro', 'Secretario de Asuntos de Veteranos', 'Fiscal General', 'Vice Presidente'],
@@ -474,7 +474,7 @@ module.exports = {
       {
         question: 'What does the judicial branch do?',
         answer: ['Reviews laws', 'Explains laws', 'Resolves disputes (disagreements)', 'Decides if a law goes against the Constitution'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Vetoes Laws', 'Writes Laws', 'Negotiates treaties'],
         spanishQuestion: '¿Qué hace la corte suprema de justicia?',
         spanishAnswer: ['Revisa leyes', 'Explica leyes', 'Resuelve disputas (desacuerdos)', 'Decide si una ley va en contra de la Constitución'],
@@ -487,7 +487,7 @@ module.exports = {
       {
         question: 'What is the highest court in the United States?',
         answer: ['The Supreme Court'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['U.S. Courts of Appeals', 'U.S. District Courts', 'Tax Court'],
         spanishQuestion: '¿Cuál es el tribunal supremo de los Estados Unidos?',
         spanishAnswer: ['La Corte Suprema'],
@@ -500,7 +500,7 @@ module.exports = {
       {
         question: 'How many justices are on the Supreme Court?',
         answer: ['Nine (9)'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Twelve (12)', 'Seven (7)', 'Ten (10)'],
         spanishQuestion: '¿Cuántos magistrados hay en la Corte Suprema?',
         spanishAnswer: ['Nueve (9)'],
@@ -513,7 +513,7 @@ module.exports = {
       {
         question: 'Who is the Chief Justice of the United States now?',
         answer: ['John Roberts'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Sonia Sotomayor', 'Clarence Thomas', 'Brett Kavanaugh'],
         spanishQuestion: '¿Quién es el Presidente del Tribunal Supremo de los Estados Unidos ahora?',
         spanishAnswer: ['John Roberts'],
@@ -526,7 +526,7 @@ module.exports = {
       {
         question: 'Under our Constitution, some powers belong to the federal government. What is one power of the federal government?',
         answer: ['To print money', 'To declare war', 'To create an army', 'To make treaties'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['To provide police protection', 'To approve zoning and land use', "To give a driver's license"],
         spanishQuestion: 'Según nuestra Constitución, algunos poderes pertenecen al gobierno federal. ¿Cuál es un poder del gobierno federal?',
         spanishAnswer: ['Imprimir dinero', 'Declarar la guerra', 'Crear un ejército', 'Hacer tratados'],
@@ -539,7 +539,7 @@ module.exports = {
       {
         question: 'Under our Constitution, some powers belong to the states. What is one power of the states?',
         answer: ['Provide schooling and education', 'Provide protection (Police)', 'Provide safety (Fire Departments)', "Give a driver's license", 'Approve zoning and land use'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['To declare war', 'To make treaties', 'To create an Army'],
         spanishQuestion: 'Según nuestra Constitución, algunos poderes pertenecen a los estados. ¿Cuál es un poder de los estados?',
         spanishAnswer: ['Brindar escolarización y educación', 'Brindar protección (Policía)', 'Brindar seguridad (Cuerpos de Bomberos)', 'Otorgar licencia de conducir', 'Aprobar zonificación y uso de suelo'],
@@ -552,7 +552,7 @@ module.exports = {
       {
         question: 'Who is the Governor of your state now?',
         answer: ['Answer will vary.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['...', '...', '...'],
         spanishQuestion: '¿Quién es el gobernador de tu estado ahora?',
         spanishAnswer: ['La respuesta variará'],
@@ -565,7 +565,7 @@ module.exports = {
       {
         question: 'What is the capital of your state?',
         answer: ['Answer will vary.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['...', '...', '...'],
         spanishQuestion: '¿Cuál es la capital de tu estado?',
         spanishAnswer: ['La respuesta variará.'],
@@ -578,7 +578,7 @@ module.exports = {
       {
         question: 'What are the two major political parties in the United States?',
         answer: ['Democratic and Republican'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Whig and Republican', 'Democrat and Federalist', 'Federalist and Whig'],
         spanishQuestion: '¿Cuáles son los dos principales partidos políticos en los Estados Unidos?',
         spanishAnswer: ['Democrático y Republicano'],
@@ -591,7 +591,7 @@ module.exports = {
       {
         question: 'What is the political party of the President now?',
         answer: ['Democrat'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Republican', 'Federalist', 'Whig'],
         spanishQuestion: '¿Cuál es el partido político del Presidente ahora?',
         spanishAnswer: ['Demócrata'],
@@ -604,7 +604,7 @@ module.exports = {
       {
         question: 'What is the name of the Speaker of the House of Representatives now?',
         answer: ['Kevin Mccarthy'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Nancy Pelosi', 'Michael Pence', 'John Roberts'],
         spanishQuestion: '¿Cómo se llama ahora el presidente de la Cámara de Representantes?',
         spanishAnswer: ['Kevin Mccarthy'],
@@ -617,7 +617,7 @@ module.exports = {
       {
         question: 'There are four amendments to the Constitution about who can vote. Describe one of them.',
         answer: ['Citizens eighteen (18) and older (can vote).', "You don't have to pay (a poll tax) to vote.", 'Any citizen can vote. (Women and men can vote.)', 'A male citizen of any race (can vote).'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Citizens 21 and older can vote', 'Anyone in the US can vote during an election', 'Voting is mandatory for every citizen'],
         spanishQuestion: 'Hay cuatro enmiendas a la Constitución sobre quién puede votar. Describa uno de ellos.',
         spanishAnswer: ['Ciudadanos mayores de dieciocho (18) años (pueden votar).', 'No tienes que pagar (un impuesto de capitación) para votar', 'Cualquier ciudadano puede votar. (Las mujeres y los hombres pueden votar.)', 'Un ciudadano varón de cualquier raza (puede votar).'],
@@ -630,7 +630,7 @@ module.exports = {
       {
         question: 'What is one responsibility that is only for United States citizens?',
         answer: ['Serve on a jury', 'Vote in a federal election'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Join the military', 'Join a political party', 'Write for a newspaper'],
         spanishQuestion: '¿Cuál es una responsabilidad que es solo para los ciudadanos de los Estados Unidos?',
         spanishAnswer: ['Servir en un jurado', 'Votar en una elección federal'],
@@ -643,7 +643,7 @@ module.exports = {
       {
         question: 'Name one right only for United States citizens.',
         answer: ['Vote in a federal election', 'Run for federal office'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Freedom of Religion', 'Join a political party', 'Freedom of Speech'],
         spanishQuestion: 'Mencione un derecho solo para los ciudadanos de los Estados Unidos.',
         spanishAnswer: ['Vote en una elección federal', 'Preséntese para un cargo federal'],
@@ -656,7 +656,7 @@ module.exports = {
       {
         question: 'What are two rights of everyone living in the United States?',
         answer: ['Freedom of Expression', 'Freedom of Speech', 'Freedom of Assembly', 'Freedom to Petition the Government', 'Freedom of Religion', 'The Right to Bear Arms',],
-        type: ['2'],
+        type: 2,
         wrongAns: ['Right to serve on a jury', 'Freedom to run for federal office', 'Right to vote without poll taxes'],
         spanishQuestion: '¿Cuáles son dos derechos de todos los que viven en los Estados Unidos?',
         spanishAnswer: ['Libertad de Expresión', 'Libertad de Expresión', 'Libertad de Reunión', 'Libertad de Petición al Gobierno', 'Libertad de Religión', 'El Derecho a Portar Armas'],
@@ -669,7 +669,7 @@ module.exports = {
       {
         question: 'What do we show loyalty to when we say the Pledge of Allegiance?',
         answer: ['The United States', 'The Flag'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Party of the president', 'Statue of Liberty', 'National Anthem'],
         spanishQuestion: '¿A qué mostramos lealtad cuando decimos el juramento de lealtad?',
         spanishAnswer: ['Estados Unidos', 'La bandera'],
@@ -682,7 +682,7 @@ module.exports = {
       {
         question: 'What is one promise you make when you become a United States citizen?',
         answer: ['Give up loyalty to other countries', 'Defend the Constitution and laws of the United States', 'Obey the laws of the United States', 'Serve in the U.S. military (if needed)', 'Serve (do important work for) the nation (if needed)', 'Be loyal to the United States'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Never leave the US', 'Pay taxes for traveling to other countries', 'Learn English'],
         spanishQuestion: '¿Cuál es una promesa que hace cuando se convierte en ciudadano de los Estados Unidos?',
         spanishAnswer: ['Renunciar a la lealtad a otros países', 'Defender la Constitución y las leyes de los Estados Unidos', 'Obedecer las leyes de los Estados Unidos', 'Servir en las fuerzas armadas de los EE. UU. (si es necesario)', 'Servir (hacer un trabajo importante para) la nación (si es necesario)', 'Sé leal a los Estados Unidos'],
@@ -695,7 +695,7 @@ module.exports = {
       {
         question: 'How old do citizens have to be to vote for President?',
         answer: ['18 and older'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Under 18 years', '16 and older', '30 and older'],
         spanishQuestion: '¿Qué edad deben tener los ciudadanos para votar por el presidente?',
         spanishAnswer: ['18 y mayores'],
@@ -708,7 +708,7 @@ module.exports = {
       {
         question: 'What are two ways that Americans can participate in their democracy?',
         answer: ['Vote', 'Join a political party', 'Help with a campaign', 'Join a civic group', 'Join a community group', 'Give an elected official your opinion on an issue', 'Call Senators and Representatives', 'Publicly support or oppose an issue or policy', 'Run for office', 'Write to a newspaper'],
-        type: ['2'],
+        type: 2,
         wrongAns: ['Apply for a job', 'Purchase real estate', 'Buy a car'],
         spanishQuestion: '¿Cuáles son dos formas en que los estadounidenses pueden participar en su democracia?',
         spanishAnswer: ['Vote', 'Únase a un partido político', 'Ayuda con una campaña', 'Únase a un grupo cívico', 'Únase a un grupo comunitario', 'Dé a un funcionario electo su opinión sobre un tema', 'Llame a senadores y representantes', 'Apoyar u oponerse públicamente a un tema o política', 'Presentarse como candidato', 'Escribir a un periódico'],
@@ -721,7 +721,7 @@ module.exports = {
       {
         question: 'When is the last day you can send in federal income tax forms?',
         answer: ['April 15'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['February 14', 'April 1', 'May 5'],
         spanishQuestion: '¿Cuándo es el último día que puede enviar formularios de impuestos federales sobre la renta?',
         spanishAnswer: ['15 de abril'],
@@ -734,7 +734,7 @@ module.exports = {
       {
         question: 'When must all men register for the Selective Service?',
         answer: ['At age 18'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['At age 21', 'At age 15', 'At age 30'],
         spanishQuestion: '¿Cuándo deben todos los hombres registrarse para el Servicio Selectivo?',
         spanishAnswer: ['A los 18 años'],
@@ -747,7 +747,7 @@ module.exports = {
       {
         question: 'What is one reason colonists came to America?',
         answer: ['Freedom', 'Political Liberty', 'Religious Freedom', 'Economic Opportunity', 'Practice their Religion', 'Escape Persecution'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Slavery', 'Communism', 'Set up own monarchy'],
         spanishQuestion: '¿Cuál es una de las razones por las que los colonos llegaron a América?',
         spanishAnswer: ['Libertad', 'Libertad política', 'Libertad religiosa', 'Oportunidad económica', 'Practicar su religión', 'Escapar de la persecución'],
@@ -760,7 +760,7 @@ module.exports = {
       {
         question: 'Who lived in America before the Europeans arrived?',
         answer: ['American Indians', 'Native Americans'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Africans', 'Russians', 'Asians'],
         spanishQuestion: '¿Quiénes vivían en América antes de la llegada de los europeos?',
         spanishAnswer: ['Indios americanos ', 'Nativos americanos'],
@@ -773,7 +773,7 @@ module.exports = {
       {
         question: 'What group of people was taken to America and sold as slaves?',
         answer: ['Africans', 'People from Africa'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Native Indians', 'Europeans', 'Asians'],
         spanishQuestion: '¿Qué grupo de personas fue llevado a América y vendido como esclavo?',
         spanishAnswer: ['Africanos ','Gente de África'],
@@ -786,7 +786,7 @@ module.exports = {
       {
         question: 'Why did the colonists fight the British?',
         answer: ['Because of high taxes (taxation without representation)', 'Because the British army stayed in their houses (boarding, quartering)', "Because they didn't have self-government"],
-        type: ['1'],
+        type: 1,
         wrongAns: ['To end slavery', 'For power over The Louisiana Territory', 'For free Tea'],
         spanishQuestion: '¿Por qué los colonos lucharon contra los británicos?',
         spanishAnswer: ['Por los altos impuestos (tributación sin representación)', 'Porque el ejército británico se quedó en sus casas (embarque, acuartelamiento)', "Porque no tenían autogobierno"],
@@ -799,7 +799,7 @@ module.exports = {
       {
         question: 'Who wrote the Declaration of Independence?',
         answer: ['Thomas Jefferson'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['John Adams', 'Abraham Lincoln', 'George Washington'],
         spanishQuestion: '¿Quién escribió la Declaración de Independencia?',
         spanishAnswer: ['Thomas Jefferson'],
@@ -812,7 +812,7 @@ module.exports = {
       {
         question: 'When was the Declaration of Independence adopted?',
         answer: ['July 4, 1776'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['June 8, 1776', 'August 1, 1789', 'April 1, 1767'],
         spanishQuestion: '¿Cuándo se adoptó la Declaración de Independencia?',
         spanishAnswer: ['4 de julio de 1776'],
@@ -825,7 +825,7 @@ module.exports = {
       {
         question: 'There were 13 original states. Name three.',
         answer: ['New Hampshire', 'Massachusetts', 'Rhode Island', 'Connecticut', 'New York', 'New Jersey', 'Pennsylvania', 'Delaware', 'Maryland', 'Virginia', 'North Carolina', 'South Carolina', 'Georgia'],
-        type: ['3'],
+        type: 3,
         wrongAns: ['Tennessee', 'Alabama', 'Kentucky'],
         spanishQuestion: 'Había 13 estados originales. Nombra tres.',
         spanishAnswer: ['New Hampshire', 'Massachusetts', 'Rhode Island', 'Connecticut', 'Nueva York', 'Nueva Jersey', 'Pennsylvania', 'Delaware', 'Maryland', 'Virginia', 'Carolina del Norte', 'South Carolina', 'Georgia'],
@@ -838,7 +838,7 @@ module.exports = {
       {
         question: 'What happened at the Constitutional Convention?',
         answer: ['The Constitution was written.', 'The Founding Fathers wrote the Constitution'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['The slaves were freed', 'George Washington was elected', 'The National Anthem was written'],
         spanishQuestion: '¿Qué sucedió en la Convención Constituyente?',
         spanishAnswer: ['La Constitución fue escrita.', 'Los Padres Fundadores escribieron la Constitución'],
@@ -851,7 +851,7 @@ module.exports = {
       {
         question: 'When was the Constitution written?',
         answer: ['1787'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['1750', '1812', '1830'],
         spanishQuestion: '¿Cuándo se redactó la Constitución?',
         spanishAnswer: ['1787'],
@@ -864,7 +864,7 @@ module.exports = {
       {
         question: 'The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.',
         answer: ['James Madison', 'Alexander Hamilton', 'John Jay', 'Publius'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['George Washington', 'John Adams', 'Abraham Lincoln'],
         spanishQuestion: 'Los Federalist Papers apoyaron la aprobación de la Constitución de los Estados Unidos. Nombre uno de los escritores.',
         spanishAnswer: ['James Madison', 'Alexander Hamilton', 'John Jay', 'Publius'],
@@ -877,7 +877,7 @@ module.exports = {
       {
         question: 'What is one thing Benjamin Franklin is famous for?',
         answer: ['U.S. diplomat', 'Oldest member of the Constitutional Convention', 'First Postmaster General of the United States', `Writer of “Poor Richard's Almanac”`, 'Started the first free libraries'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['President of the United States', 'Freed the slaves', 'Gave women the right to vote'],
         spanishQuestion: '¿Cuál es una cosa por la que Benjamin Franklin es famoso?',
         spanishAnswer: ['diplomático de EE. UU.', 'Miembro más antiguo de la Convención Constitucional', 'Primer Director General de Correos de los Estados Unidos', `Escritor de "Poor Richard's Almanac"`, 'Inició las primeras bibliotecas gratuitas'],
@@ -890,7 +890,7 @@ module.exports = {
       {
         question: 'Who is the “Father of Our Country”?',
         answer: ['George Washington'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Abraham Lincoln', 'Benjamin Franklin', 'John Adams'],
         spanishQuestion: '¿Quién es el “Padre de Nuestra Patria”?',
         spanishAnswer: ['George Washington'],
@@ -903,7 +903,7 @@ module.exports = {
       {
         question: 'Who was the first President?',
         answer: ['George Washington'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Abraham Lincoln', 'Andrew Jackson', 'John Adams'],
         spanishQuestion: '¿Quién fue el primer presidente?',
         spanishAnswer: ['George Washington'],
@@ -916,7 +916,7 @@ module.exports = {
       {
         question: 'What territory did the United States buy from France in 1803?',
         answer: ['The Louisiana Territory', 'Louisiana'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Alaskan Territory', 'New Mexico Territory', 'Canada'],
         spanishQuestion: '¿Qué territorio compró Estados Unidos a Francia en 1803?',
         spanishAnswer: ['El Territorio de Luisiana', 'Louisiana'],
@@ -929,7 +929,7 @@ module.exports = {
       {
         question: 'Name one war fought by the United States in the 1800s.',
         answer: ['War of 1812', 'Mexican-American War', 'Civil War', 'Spanish-American War'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['World War 2', 'Revolutionary War', 'Korean War'],
         spanishQuestion: 'Mencione una guerra librada por los Estados Unidos en los 1800.',
         spanishAnswer: ['Guerra de 1812', 'Guerra Mexicano-Estadounidense', 'Guerra Civil', 'Guerra Hispano-Estadounidense'],
@@ -942,7 +942,7 @@ module.exports = {
       {
         question: 'Name the U.S. war between the North and the South.',
         answer: ['The Civil War'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Korean War', 'Revolutionary War', 'War of 1812'],
         spanishQuestion: 'Nombra la guerra de Estados Unidos entre el Norte y el Sur.',
         spanishAnswer: ['La Guerra Civil'],
@@ -955,7 +955,7 @@ module.exports = {
       {
         question: 'Name one problem that led to the Civil War.',
         answer: ['Slavery', 'Economic Reasons', "State's Rights"],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Communism', 'Freedom of Religion', 'Free libraries'],
         spanishQuestion: 'Nombre un problema que condujo a la Guerra Civil.',
         spanishAnswer: ['Esclavitud', 'Razones Económicas', 'Derechos del Estado'],
@@ -968,7 +968,7 @@ module.exports = {
       {
         question: 'What was one important thing that Abraham Lincoln did?',
         answer: ['Freed the slaves (Emancipation Proclamation)', 'Saved (or preserved) the Union', 'Led the United States during the Civil War'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Founded the United States', 'Was the first president', 'Led the United States during World War 2'],
         spanishQuestion: '¿Cuál fue una cosa importante que hizo Abraham Lincoln?',
         spanishAnswer: ['Liberó a los esclavos (Proclamación de Emancipación)', 'Salvó (o preservó) la Unión', 'Dirigió a los Estados Unidos durante la Guerra Civil'],
@@ -981,7 +981,7 @@ module.exports = {
       {
         question: 'What did the Emancipation Proclamation do?',
         answer: ['Freed the slaves', 'Freed slaves in the Confederacy', 'Freed slaves in the Confederate states', 'Freed slaves in most Southern states'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Gave women the right to vote', 'Declared War', 'Gave indepedence to the US'],
         spanishQuestion: '¿Qué hizo la Proclamación de Emancipación?',
         spanishAnswer: ['Liberaron a los esclavos', 'Liberaron a los esclavos en la Confederación', 'Liberaron a los esclavos en los estados confederados', 'Liberaron a los esclavos en la mayoría de los estados del sur'],
@@ -994,7 +994,7 @@ module.exports = {
       {
         question: 'What did Susan B. Anthony do?',
         answer: ["Fought for women's rights", 'Fought for civil rights'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Fought for the end of slavery', 'Became president of the United States', "Fought against the Nazi's"],
         spanishQuestion: '¿Qué hizo Susan B. Anthony?',
         spanishAnswer: ["Luchó por los derechos de las mujeres", 'Luchó por los derechos civiles'],
@@ -1007,7 +1007,7 @@ module.exports = {
       {
         question: 'Name one war fought by the United States in the 1900s.',
         answer: ['World War 1', 'World War 2', 'Korean War', 'Vietnam War', '(Persian) Gulf War'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['War of 1812', 'American Revolutionary War', 'Civil War'],
         spanishQuestion: 'Mencione una guerra librada por los Estados Unidos en los 1900s.',
         spanishAnswer: ['Primera Guerra Mundial', 'Segunda Guerra Mundial', 'Guerra de Corea', 'Guerra de Vietnam', 'Guerra del Golfo (Pérsico)'],
@@ -1020,7 +1020,7 @@ module.exports = {
       {
         question: 'Who was President during World War I?',
         answer: ['Woodrow Wilson'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Theodore Roosevelt', 'Rutherford B. Hayes', 'Andrew Johnson'],
         spanishQuestion: '¿Quién fue presidente durante la Primera Guerra Mundial?',
         spanishAnswer: ['Woodrow Wilson'],
@@ -1033,7 +1033,7 @@ module.exports = {
       {
         question: 'Who was President during the Great Depression and World War II?',
         answer: ['Franklin Roosevelt'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Abraham Lincoln', 'Andrew Jackson', 'John F. Kennedy'],
         spanishQuestion: '¿Quién fue presidente durante la Gran Depresión y la Segunda Guerra Mundial?',
         spanishAnswer: ['Franklin Roosevelt'],
@@ -1046,7 +1046,7 @@ module.exports = {
       {
         question: 'Who did the United States fight in World War II?',
         answer: ['Japan, Germany and Italy'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Canada, England and Ireland', 'Morocco, Egypt and Saudi Arabia', 'Russia, Sweden and Austria'],
         spanishQuestion: '¿Con quién luchó Estados Unidos en la Segunda Guerra Mundial?',
         spanishAnswer: ['Japón, Alemania e Italia'],
@@ -1059,7 +1059,7 @@ module.exports = {
       {
         question: 'Before he was President, Eisenhower was a general. What war was he in?',
         answer: ['World War 2'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['World War 1', 'Korean War', 'Vietnam War'],
         spanishQuestion: 'Antes de ser presidente, Eisenhower fue general. ¿En qué guerra estuvo?',
         spanishAnswer: ['Segunda Guerra Mundial'],
@@ -1072,7 +1072,7 @@ module.exports = {
       {
         question: 'During the Cold War, what was the main concern of the United States?',
         answer: ['Communism'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Influenza', 'Fascism', 'Capitalism'],
         spanishQuestion: 'Durante la Guerra Fría, ¿cuál era la principal preocupación de Estados Unidos?',
         spanishAnswer: ['Comunismo'],
@@ -1085,7 +1085,7 @@ module.exports = {
       {
         question: 'What movement tried to end racial discrimination?',
         answer: ['Civil Rights Movement'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Industrial Revolution', 'Civil War', 'Constitutional Convention'],
         spanishQuestion: '¿Qué movimiento trató de poner fin a la discriminación racial?',
         spanishAnswer: ['Movimiento de derechos civiles'],
@@ -1098,7 +1098,7 @@ module.exports = {
       {
         question: 'What did Martin Luther King, Jr. do?',
         answer: ['Fought for civil rights', 'Worked for equality for all Americans'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Became President of the United States', 'Freed the slaves', 'Set up the government'],
         spanishQuestion: '¿Qué hizo Martin Luther King, Jr.?',
         spanishAnswer: ['Luchó por los derechos civiles', 'Trabajó por la igualdad para todos los estadounidenses'],
@@ -1111,7 +1111,7 @@ module.exports = {
       {
         question: 'What major event happened on September 11, 2001, in the United States?',
         answer: ['Terrorists attacked the United States'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Martin Luther King Jr., led the civil rights movement', 'George Bush was Elected', 'World War 2 started'],
         spanishQuestion: '¿Qué evento importante ocurrió el 11 de septiembre de 2001 en los Estados Unidos?',
         spanishAnswer: ['Los terroristas atacaron a los Estados Unidos.'],
@@ -1124,7 +1124,7 @@ module.exports = {
       {
         question: 'Name one American Indian tribe in the United States.',
         answer: ['Cherokee', 'Navajo', 'Sioux', 'Apache', 'Seminole'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Maya', 'Inca', 'Zapotec'],
         spanishQuestion: 'Nombre una tribu de indios americanos en los Estados Unidos.',
         spanishAnswer: ['Cherokee', 'Navajo', 'Sioux', 'Apache', 'Seminole'],
@@ -1137,7 +1137,7 @@ module.exports = {
       {
         question: 'Name one of the two longest rivers in the United States.',
         answer: ['Missouri River', 'Mississippi River'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Amazon River', 'Tennessee River', 'Yukon River'],
         spanishQuestion: 'Nombre uno de los dos ríos más largos de los Estados Unidos.',
         spanishAnswer: ['Río Missouri', 'Río Mississippi'],
@@ -1150,7 +1150,7 @@ module.exports = {
       {
         question: 'What ocean is on the West Coast of the United States?',
         answer: ['Pacific Ocean'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Atlantic Ocean', 'Indian Ocean', 'Arctic Ocean'],
         spanishQuestion: '¿Qué océano está en la costa oeste de los Estados Unidos?',
         spanishAnswer: ['Océano Pacífico'],
@@ -1163,7 +1163,7 @@ module.exports = {
       {
         question: 'What ocean is on the East Coast of the United States?',
         answer: ['Atlantic Ocean'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Pacific Ocean', 'Indian Ocean', 'Arctic Ocean'],
         spanishQuestion: '¿Qué océano está en la costa este de los Estados Unidos?',
         spanishAnswer: ['Océano Atlántico'],
@@ -1176,7 +1176,7 @@ module.exports = {
       {
         question: 'Name one U.S. territory.',
         answer: ['Puerto Rico', 'U.S. Virgin Islands', 'American Samoa', 'Northern Mariana Islands', 'Guam'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Cuba', 'Iceland', 'Haiti'],
         spanishQuestion: 'Mencione un territorio de los Estados Unidos.',
         spanishAnswer: ['Puerto Rico', 'U.S. Islas Vírgenes', 'Samoa Americana', 'Islas Marianas del Norte', 'Guam'],
@@ -1189,7 +1189,7 @@ module.exports = {
       {
         question: 'Name one state that borders Canada.',
         answer: ['Maine', 'New Hampshire', 'Vermont', 'New York', 'Pennsylvania', 'Ohio', 'Michigan', 'Minnesota', 'North Dakota', 'Montana', 'Idaho', 'Washington', 'Alaska'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Wyoming', 'Kentucky', 'North Carolina'],
         spanishQuestion: 'Mencione un estado que tiene frontera con Canadá.',
         spanishAnswer: ['Maine', 'Nuevo Hampshire', 'Vermont', 'Nueva York', 'Pensilvania', 'Ohio', 'Michigan', 'Minnesota', 'Dakota del Norte', 'Montana', 'Idaho', 'Washington', 'Alaska'],
@@ -1202,7 +1202,7 @@ module.exports = {
       {
         question: 'Name one state that borders Mexico.',
         answer: ['California', 'Arizona', 'New Mexico', 'Texas'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Florida', 'Georgia', 'Kansas'],
         spanishQuestion: 'Mencione un estado que tiene frontera con México.',
         spanishAnswer: ['California', 'Arizona', 'Nuevo México', 'Texas'],
@@ -1215,7 +1215,7 @@ module.exports = {
       {
         question: 'What is the capital of the United States?',
         answer: ['Washington D.C.'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['New York City', 'Chicago', 'Baltimore'],
         spanishQuestion: '¿Cuál es la capital de los Estados Unidos?',
         spanishAnswer: ['Washington DC.'],
@@ -1228,7 +1228,7 @@ module.exports = {
       {
         question: 'Where is the Statue of Liberty?',
         answer: ['New York Harbor', 'Liberty Island'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Staten Island', 'Washington DC', 'Chicago'],
         spanishQuestion: '¿Dónde está la estatua de la Libertad?',
         spanishAnswer: ['Puerto de Nueva York', 'Isla de la Libertad'],
@@ -1241,7 +1241,7 @@ module.exports = {
       {
         question: 'Why does the flag have 13 stripes?',
         answer: ['Because there were 13 original colonies', 'Because the stripes represent the original colonies'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Because there have been 13 Presidents', 'Because there were 13 founding fathers', 'Because there are 13 amendments'],
         spanishQuestion: '¿Por qué la bandera tiene 13 franjas?',
         spanishAnswer: ['Porque había 13 colonias originales', 'Porque las rayas representan las colonias originales'],
@@ -1254,7 +1254,7 @@ module.exports = {
       {
         question: 'Why does the flag have 50 stars?',
         answer: ['Because there is one star for each state', 'Because each star represents a state', 'Because there are 50 states'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['Because there are 50 senators', 'Because there are 50 original colonies', 'Because there are 50 Presidents'],
         spanishQuestion: '¿Por qué la bandera tiene 50 estrellas?',
         spanishAnswer: ['Porque hay una estrella para cada estado', 'Porque cada estrella representa un estado', 'Porque hay 50 estados'],
@@ -1267,7 +1267,7 @@ module.exports = {
       {
         question: 'What is the name of the national anthem?',
         answer: ['The Star-Spangled Banner'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['America The Beautiful', 'God Bless The USA', 'Yankee Doodle'],
         spanishQuestion: '¿Cómo se llama el himno nacional?',
         spanishAnswer: ['The Star-Spangled Banner'],
@@ -1280,7 +1280,7 @@ module.exports = {
       {
         question: 'When do we celebrate Independence Day?',
         answer: ['July 4'],
-        type: ['1'],
+        type: 1,
         wrongAns: ['December 31', 'March 5', 'April 1'],
         spanishQuestion: '¿Cuándo celebramos el Día de la Independencia?',
         spanishAnswer: ['4 de Julio'],
@@ -1293,7 +1293,7 @@ module.exports = {
       {
         question: 'Name two national U.S. holidays.',
         answer: ["New Year's Day", "Martin Luther King, Jr. Day", "Presidents' Day", "Memorial Day", "Independence Day", "Labor Day", "Columbus Day", "Veterans Day", "Thanksgiving", "Christmas"],
-        type: ['2'],
+        type: 2,
         wrongAns: ['Easter', "Valentine's Day", 'Groundhog Day'],
         spanishQuestion: 'Mencione dos dias de festivo nacionales de los Estados Unidos.',
         spanishAnswer: ['Día de Año Nuevo", "Día de Martin Luther King, Jr.", "Día de los Presidentes", "Día de los Caídos", "Día de la Independencia", "Día del Trabajo", "Día de la Raza", "Día de los Veteranos", "Acción de Gracias", "Navidad'],

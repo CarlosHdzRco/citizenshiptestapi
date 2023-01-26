@@ -16,6 +16,11 @@ module.exports = (sequelize, DataTypes) => {
   questionanswers.init({
     question: DataTypes.STRING,
     answer: DataTypes.ARRAY(DataTypes.STRING),
+    type: DataTypes.STRING,
+    wrongAns: DataTypes.ARRAY(DataTypes.STRING),
+    spanishQuestion: DataTypes.STRING,
+    spanishAnswer: DataTypes.ARRAY(DataTypes.STRING),
+    spanishWrongAns: DataTypes.ARRAY(DataTypes.STRING),
     category: DataTypes.STRING,
     subcategory: DataTypes.STRING
   }, {
