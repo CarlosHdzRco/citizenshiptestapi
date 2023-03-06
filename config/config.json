@@ -7,17 +7,17 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "citizenshiptestdb",
-    "host": "127.0.0.1",
+    "username": "kwewvenzftavgk",
+    "password": "9938c0e470863b1227ac9bf2863d4ccf2bee3ce0c3f66bafd42af87ad2760293",
+    "database": "d1bc92p0to2te5",
+    "host": "ec2-54-152-28-9.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "isfuvqcthkfwsu",
-    "password": "58645894c375e4d6729daee41f9398c9e45db39ec52256a2d588a0c8eb3cda56",
-    "database": "d1l43lucfkai66",
-    "host": "ec2-52-72-56-59.compute-1.amazonaws.com",
+    "username": "kwewvenzftavgk",
+    "password": "9938c0e470863b1227ac9bf2863d4ccf2bee3ce0c3f66bafd42af87ad2760293",
+    "database": "d1bc92p0to2te5",
+    "host": "ec2-54-152-28-9.compute-1.amazonaws.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
